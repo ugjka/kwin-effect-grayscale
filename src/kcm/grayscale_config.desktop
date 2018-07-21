@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+X-KDE-ServiceTypes=KCModule
+
+X-KDE-Library=kwin_grayscale_config
+X-KDE-ParentComponents=kwin_effect_grayscale
+
+Name=Grayscale
