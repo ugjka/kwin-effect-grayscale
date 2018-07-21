@@ -1,5 +1,7 @@
 # kwin-effect-grayscale
 
+![demo](https://raw.githubusercontent.com/ugjka/kwin-effect-grayscale/master/demo/demo.png "demo")
+
 Turn the entire screen or a window in grayscale
 
 ## Shortcuts
