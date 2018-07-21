@@ -12,6 +12,8 @@ CTRL + META + H for grayscaling the current window
 
 You can change the shortcuts via System Settings -> Global Keyboard Shortcuts -> KWin
 
+Or directly from the kwin effects settings menu
+
 ## Installation
 
 ArchLinux PKGBUILD in the repo
@@ -26,7 +28,3 @@ cmake -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_INSTALL_LIBDIR=lib ..
 make
 sudo make install
 ```
-
-## TODO
-
-* KCM config plugin
