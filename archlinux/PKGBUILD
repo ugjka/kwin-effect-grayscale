@@ -2,7 +2,7 @@
 
 _pkgname=kwin-effect-grayscale
 pkgname="$_pkgname-git"
-pkgver=20180720.67c4899
+pkgver=20180721.3e1ba20
 pkgrel=1
 pkgdesc='Turn things in grayscale'
 arch=('x86_64')
