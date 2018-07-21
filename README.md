@@ -14,6 +14,8 @@ You can change the shortcuts via System Settings -> Global Keyboard Shortcuts ->
 
 Or directly from the kwin effects settings menu
 
+![menu](https://raw.githubusercontent.com/ugjka/kwin-effect-grayscale/master/demo/menu.png "menu")
+
 ## Installation
 
 ArchLinux PKGBUILD in the repo
