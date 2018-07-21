@@ -2,7 +2,7 @@
 
 Turn the entire screen or a window in grayscale
 
-## Shortuts
+## Shortcuts
 
 CTRL + META + G for grayscaling the entire screen
 
@@ -14,7 +14,7 @@ You can change the shortcuts via System Settings -> Global Keyboard Shortcuts ->
 
 ArchLinux PKGBUILD in the repo
 
-### Manual
+### Manual build
 
 ```bash
 git clone https://github.com/ugjka/kwin-effect-grayscale.git
