@@ -18,7 +18,7 @@ Or directly from the kwin effects settings menu
 
 ## Installation
 
-ArchLinux PKGBUILD in the repo
+ArchLinux: [AUR](https://aur.archlinux.org/packages/kwin-effect-grayscale-git/)
 
 ### Manual build
 
