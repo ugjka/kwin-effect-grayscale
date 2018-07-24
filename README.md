@@ -32,3 +32,7 @@ cmake -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_INSTALL_LIBDIR=lib ..
 make
 sudo make install
 ```
+
+## TODO
+
+add gamma correction feature
