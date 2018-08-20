@@ -22,7 +22,7 @@ ArchLinux: [AUR](https://aur.archlinux.org/packages/kwin-effect-grayscale-git/)
 
 ### Manual build
 
-You need extra-cmake-modules, kwin and kf5 packages installed
+You need extra-cmake-modules, kwin and kf5 *-dev packages installed
 
 ```bash
 git clone https://github.com/ugjka/kwin-effect-grayscale.git
