@@ -28,7 +28,13 @@ You need extra-cmake-modules, kwin and kf5 packages installed
 git clone https://github.com/ugjka/kwin-effect-grayscale.git
 cd kwin-effect-grayscale
 mkdir build && cd build
-cmake -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_INSTALL_LIBDIR=lib ..
+cmake .. \
+        -DCMAKE_C_FLAGS:STRING="" \
+        -DCMAKE_CXX_FLAGS:STRING="" \
+        -DCMAKE_EXE_LINKER_FLAGS:STRING="" \
+        -DCMAKE_SHARED_LINKER_FLAGS:STRING="" \
+        -DCMAKE_INSTALL_PREFIX=/usr \
+        -DCMAKE_INSTALL_LIBDIR=lib
 make
 sudo make install
 ```
