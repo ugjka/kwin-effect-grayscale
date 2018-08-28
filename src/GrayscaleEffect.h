@@ -4,7 +4,7 @@
 
 Copyright (C) 2007 Rivo Laks <rivolaks@hot.ee>
 Copyright (C) 2008 Lucas Murray <lmurray@undefinedfire.com>
-Copyright (C) 2018 Ugis Germanis <ugis.germanis@gmail.com>
+Copyright (C) 2018 ugjka <esesmu@protonmail.com>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
