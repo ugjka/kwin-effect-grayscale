@@ -1,6 +1,6 @@
  /*
  * Copyright (C) 2018 Vlad Zagorodniy <vladzzag@gmail.com>
- * Copyright (C) 2018 Ugis Germanis <ugis.germanis@gmail.com>
+ * Copyright (C) 2018 ugjka <esesmu@protonmail.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
