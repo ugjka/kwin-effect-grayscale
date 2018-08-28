@@ -5,8 +5,8 @@ Comment=Grayscale effect
 
 Type=Service
 X-KDE-ServiceTypes=KWin/Effect
-X-KDE-PluginInfo-Author=Ugis Germanis
-X-KDE-PluginInfo-Email=ugis.germanis@gmail.com
+X-KDE-PluginInfo-Author=ugjka
+X-KDE-PluginInfo-Email=esesmu@protonmail.com
 X-KDE-PluginInfo-Name=kwin_effect_grayscale
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Category=Appearance
