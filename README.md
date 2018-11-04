@@ -1,6 +1,6 @@
 # kwin-effect-grayscale
 
-[![Donate](https://dl.ugjka.net/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UVTCZYQ3FVNCY)
+[![Donate](https://dl.ugjka.net/Donate-PayPal-green.svg)](https://www.paypal.me/ugjka)
 
 ![demo](https://raw.githubusercontent.com/ugjka/kwin-effect-grayscale/master/demo/demo.png "demo")
 
