@@ -1,4 +1,4 @@
-# kwin-effect-grayscale
+# kwin-effect-grayscale (Project dead as of 2020)
 
 [![Donate](https://dl.ugjka.net/Donate-PayPal-green.svg)](https://www.paypal.me/ugjka)
 
